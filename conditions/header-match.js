@@ -1,6 +1,7 @@
 module.exports = {
   name: 'header-match',
   schema: {
+    $id: 'https://www.npmjs.com/package/express-gateway-plugin-condition-header-match',
     type: 'object',
     properties: {
       expected: {
