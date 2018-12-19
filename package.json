@@ -1,6 +1,6 @@
 {
   "name": "express-gateway-plugin-condition-header-match",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comparação de header especifico da request",
   "main": "manifest.js",
   "scripts": {
