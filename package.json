@@ -1,0 +1,20 @@
+{
+  "name": "express-gateway-plugin-condition-header-match",
+  "version": "1.0.0",
+  "description": "Comparação de header especifico da request",
+  "main": "manifest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api-gateway",
+    "header",
+    "matcher",
+    "condition"
+  ],
+  "author": "Felipe Dierka",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "4.1.0"
+  }
+}
